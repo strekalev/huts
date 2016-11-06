@@ -1,0 +1,38 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="smarthouseisu.com" resolutions="1x" timestamp="1478403444504">
+  <folder name="css">
+    <file name="site_global.css" crc="4077412742"/>
+    <file name="index.css" crc="4129546719" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont1.woff" crc="222444626"/>
+    <file name="fontawesome-webfont1.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont1.svg" crc="332874908"/>
+    <file name="acline.woff" crc="3860800654"/>
+    <file name="acline.eot" crc="4125162521"/>
+    <file name="acline.svg" crc="373413717"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="игу.jpg" crc="120501116" seo="true" ref="index"/>
+    <file name="u1640-4.png" crc="192465376" ref="index"/>
+    <file name="системы управления.jpg" crc="183439587" seo="true" ref="index"/>
+    <file name="интерфейс-1.jpg" crc="3792212375" seo="true" ref="index"/>
+    <file name="u2115-4.png" crc="72025576" ref="index"/>
+    <file name="house.png" crc="4233180649" seo="true" ref="index"/>
+    <file name="u2321-6.png" crc="7149640" ref="index"/>
+    <file name="необходимость-1.jpg" crc="405013228" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="467640047" seo="true" mt="1478403422208" redirect="true"/>
+</manifest>
